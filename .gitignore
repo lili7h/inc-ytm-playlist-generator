@@ -1,0 +1,6 @@
+library/
+**/__pycache__/
+.idea
+.vscode
+oauth.json
+.env
